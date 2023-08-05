@@ -381,3 +381,16 @@ ul {
     padding: 20px;
 }
 
+/****************************************** MEDIA QUERY **********************************************************/
+
+@media(max-width: 900px) {
+    .start-container {
+        max-width: 90%;
+    }
+    table {
+        font-size: 5px;
+    }
+    #results_Usuario td {
+        font-size: 5px;
+    }
+}
